@@ -4,4 +4,4 @@ Javascript class includes functions for (calculating client's next 12 months per
 # environment
 Node.js/Mongodb...
 
-# controller functions also included required to handle input from client related to period tracker.
+ controller functions also included required to handle input from client related to period tracker.
