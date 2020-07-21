@@ -8,7 +8,7 @@ Node.js/Mongodb...
  
 # Sample output of 2 months dates
  {
-    "period": [/n
+    "period": [
         [
             "24-06-2020",
             "25-06-2020",
@@ -16,7 +16,7 @@ Node.js/Mongodb...
             "27-06-2020",
             "28-06-2020",
             "29-06-2020"
-        ],
+        ],<br/>
         [
             "25-07-2020",
             "26-07-2020",
