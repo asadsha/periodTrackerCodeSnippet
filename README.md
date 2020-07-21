@@ -7,7 +7,7 @@ Node.js/Mongodb...
  controller functions also included required to handle input from client related to period tracker.
  
 # Sample output of 2 months dates
- {
+ {<br/>
     "period": [<br/>
         [<br/>
             "24-06-2020",<br/>
